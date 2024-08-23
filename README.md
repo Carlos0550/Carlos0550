@@ -1,6 +1,6 @@
 # ¡Hola! Soy Carlos Pelinski 👋
 
-Soy un desarrollador apasionado con experiencia en HTML, CSS, JavaScript, React, Supabase, SQL y Node.js. Me dedico a crear aplicaciones web intuitivas y funcionales que resuelvan problemas y mejoren la experiencia del usuario.
+Soy un desarrollador apasionado con experiencia en HTML, CSS, JavaScript, React, Supabase, SQL/PostgreSQL y Node.js. Me dedico a crear aplicaciones web intuitivas y funcionales que resuelvan problemas de mis clientes.
 
 ## 🛠️ Tecnologías y Herramientas
 
