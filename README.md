@@ -4,7 +4,7 @@ Soy un desarrollador apasionado con experiencia en HTML, CSS, JavaScript, React,
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, SQL, Node.js
+- **Lenguajes:** HTML, CSS, JavaScript, SQL, Node.js
 - **Frameworks y Librerías:** React, Supabase
 - **Bases de Datos:** PostgreSQL, Supabase
 
