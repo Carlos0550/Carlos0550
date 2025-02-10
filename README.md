@@ -17,6 +17,6 @@
 ### 📫 Contáctame
 
 📩 **Email:** [carlospelinski03@email.com](mailto:carlospelinski03@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/carlos-pelinski](#www.linkedin.com/in/carlos-pelinski-996308274)  
+💼 **LinkedIn:** [linkedin.com/in/carlos-pelinski](www.linkedin.com/in/carlos-pelinski-996308274)  
 
 ¡Gracias por visitar mi perfil! 😊🚀
