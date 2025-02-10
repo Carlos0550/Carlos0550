@@ -1,7 +1,7 @@
 
 ### 👋 ¡Hola! Soy Carlos
 
-🚀 Desarrollador Full Stack apasionado por crear aplicaciones web eficientes, optimizadas y con una gran experiencia de usuario.
+🚀 Desarrollador web apasionado por crear aplicaciones web eficientes, optimizadas y con una gran experiencia de usuario.
 
 ---
 
