@@ -7,7 +7,7 @@
 
 ### 🔧 Tech Stack
 
-- 🏗 **Frontend:** React, HTML, CSS, JavaScript
+- 🏗 **Frontend:** React, HTML, CSS, JavaScript, Typescript
 - ⚙️ **Backend:** Node.js, Express
 - 🗄 **Bases de Datos:** PostgreSQL
 - 📦 **Infraestructura:** Supabase, Nhost, Manejo de VPS
